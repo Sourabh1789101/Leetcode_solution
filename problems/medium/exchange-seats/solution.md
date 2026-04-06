@@ -15,10 +15,11 @@
 
 ## Solution
 
-```
-Seat
+```python
+# Write your MySQL query statement below
+
 ```
 
 ---
 
-_Synced on 2026-04-06T18:01:08.646Z_
+_Synced on 2026-04-06T18:02:01.847Z_
